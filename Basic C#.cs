@@ -5,7 +5,7 @@
             name = name ?? "Hello";
             Console.WriteLine(name);
 
-            /*  Post Increment , Pre Increment */
+          
 
             int firstvalue = 100;
             bool result = firstvalue > 50 ? true : false;
